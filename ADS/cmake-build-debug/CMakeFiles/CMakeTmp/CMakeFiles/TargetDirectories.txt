@@ -1,3 +1,0 @@
-C:/Users/Marvin/Documents/Eigene/FH/3_WiSe2018_19/Algorithms and Data Structurs/Praktikum/CLionProjects/ADS/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_bc581.dir
-C:/Users/Marvin/Documents/Eigene/FH/3_WiSe2018_19/Algorithms and Data Structurs/Praktikum/CLionProjects/ADS/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/edit_cache.dir
-C:/Users/Marvin/Documents/Eigene/FH/3_WiSe2018_19/Algorithms and Data Structurs/Praktikum/CLionProjects/ADS/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/rebuild_cache.dir
