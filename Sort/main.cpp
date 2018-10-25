@@ -38,28 +38,21 @@ void insertion_sort(int a[], int n)
         }
     }
 }
-void merge_sort(int a[], int start, int size)
+void merge_sort(int a[], int start, int end)
 {
-
-    if ( size <= 1)
+    int n = end - start;
+    if (  n <= 1)
         return;
-    else if ( size - start == 2 ) {
-        if (a[size] < a[start]){
-            int tmp = a[size];
-            a[size] = a[start];
-            a[start] = tmp;
-        }
-        return;
-    } else {
-        int middle = size/2;
+    else {
+        int middle = start + n/2;
         merge_sort(a, start, middle);
-        merge_sort(a, middle, size);
+        merge_sort(a, middle, end);
 
         int mIndex = start;
         int lIndex = middle;
-        int tmp[size];
-        for(int i = start; i < size; i++) {
-            if( (a[mIndex] < a[lIndex] and mIndex == middle ) or lIndex == size) {
+        int tmp[end];
+        for(int i = start; i < end; i++) {
+            if( (a[mIndex] < a[lIndex] and mIndex != middle ) or lIndex == end) {
                 tmp[i] = a[mIndex];
                 mIndex++;
             } else {
@@ -67,7 +60,7 @@ void merge_sort(int a[], int start, int size)
                 lIndex++;
             }
         }
-        for(int i = start; i < size; i++){
+        for(int i = start; i < end; i++){
             a[i] = tmp[i];
         }
         return;

@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Marvin/Documents/Eigene/FH/3_WiSe2018_19/Algorithms and Data Structurs/Praktikum/CLionProjects/Sort/main.cpp
+iostream
+-
+
