@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Marvin/Documents/Eigene/FH/3_WiSe2018_19/Algorithms and Data Structurs/Praktikum/CLionProjects/Testhg
+# Install script for directory: C:/Users/Marvin/Documents/Eigene/FH/3_WiSe2018_19/Algorithms and Data Structurs/Praktikum/CLionProjects/test_area
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Marvin/Documents/Eigene/FH/3_WiSe2018_19/Algorithms and Data Structurs/Praktikum/CLionProjects/Testhg/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Marvin/Documents/Eigene/FH/3_WiSe2018_19/Algorithms and Data Structurs/Praktikum/CLionProjects/test_area/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -12,151 +12,99 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fde44204-9f7d-4a8a-97cd-f9aab42914e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../maximum_subsequence_sum/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../maximum_subsequence_sum/cmake-build-debug/ADS.cbp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../maximum_subsequence_sum/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/.idea/ADS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../maximum_subsequence_sum/.idea/ADS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../maximum_subsequence_sum/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../maximum_subsequence_sum/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../maximum_subsequence_sum/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../maximum_subsequence_sum/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../maximum_subsequence_sum/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/calc.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../maximum_subsequence_sum/calc.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/calc.h" beforeDir="false" afterPath="$PROJECT_DIR$/../maximum_subsequence_sum/calc.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/cmake-build-debug/ADS.cbp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/cmake-build-debug/ADS.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../maximum_subsequence_sum/cmake-build-debug/ADS.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/cmake-build-debug/CMakeFiles/3.12.2/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../maximum_subsequence_sum/cmake-build-debug/CMakeFiles/3.12.2/CMakeCCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/cmake-build-debug/CMakeFiles/3.12.2/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../maximum_subsequence_sum/cmake-build-debug/CMakeFiles/3.12.2/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/cmake-build-debug/CMakeFiles/3.12.2/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../maximum_subsequence_sum/cmake-build-debug/CMakeFiles/3.12.2/CMakeRCCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/cmake-build-debug/CMakeFiles/3.12.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../maximum_subsequence_sum/cmake-build-debug/CMakeFiles/3.12.2/CMakeSystem.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/../maximum_subsequence_sum/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../maximum_subsequence_sum/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../maximum_subsequence_sum/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../maximum_subsequence_sum/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/Makefile2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_bc581.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_bc581.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_bc581.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_bc581.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_bc581.dir/feature_tests.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_bc581.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_bc581.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_bc581.dir/linklibs.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_bc581.dir/objects1.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_bc581.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../maximum_subsequence_sum/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/cmake-build-debug/CMakeFiles/CMakeTmp/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/cmake-build-debug/CMakeFiles/CMakeTmp/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../maximum_subsequence_sum/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../maximum_subsequence_sum/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../maximum_subsequence_sum/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../maximum_subsequence_sum/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/tester.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../maximum_subsequence_sum/tester.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ADS/tester.h" beforeDir="false" afterPath="$PROJECT_DIR$/../maximum_subsequence_sum/tester.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/.idea/Sort.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/.idea/Sort.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/cmake-build-debug/CMakeFiles/3.12.2/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/3.12.2/CMakeCCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/cmake-build-debug/CMakeFiles/3.12.2/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/3.12.2/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/cmake-build-debug/CMakeFiles/3.12.2/CMakeRCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/3.12.2/CMakeRCCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/cmake-build-debug/CMakeFiles/3.12.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/3.12.2/CMakeSystem.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/cmake-build-debug/CMakeFiles/Sort.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Sort.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/cmake-build-debug/CMakeFiles/Sort.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Sort.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/cmake-build-debug/CMakeFiles/Sort.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Sort.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/cmake-build-debug/CMakeFiles/Sort.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Sort.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/cmake-build-debug/CMakeFiles/Sort.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Sort.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/cmake-build-debug/CMakeFiles/Sort.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Sort.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/cmake-build-debug/CMakeFiles/Sort.dir/linklibs.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Sort.dir/linklibs.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/cmake-build-debug/CMakeFiles/Sort.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Sort.dir/objects1.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/cmake-build-debug/CMakeFiles/Sort.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Sort.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/feature_tests.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/cmake-build-debug/Sort.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/Sort.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/cmake-build-debug/Sort.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/Sort.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Sort/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../sorting_algorithm/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/.idea/Test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/3.12.2/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/3.12.2/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/3.12.2/CMakeRCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/3.12.2/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/Test.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/Test.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/Test.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/Test.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/Test.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/Test.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/Test.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/Test.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/Test.dir/linklibs.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/Test.dir/main.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/Test.dir/objects.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/Test.dir/objects1.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/Test.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/Test.cbp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/Test.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Test/main.cpp" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sorting_algorithms/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sorting_algorithms/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maximum_subsequence_sum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../maximum_subsequence_sum/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maximum_subsequence_sum/cmake-build-debug/ADS.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../maximum_subsequence_sum/cmake-build-debug/ADS.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maximum_subsequence_sum/cmake-build-debug/ADS.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../maximum_subsequence_sum/cmake-build-debug/ADS.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maximum_subsequence_sum/cmake-build-debug/CMakeFiles/3.12.2/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../maximum_subsequence_sum/cmake-build-debug/CMakeFiles/3.12.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maximum_subsequence_sum/cmake-build-debug/CMakeFiles/3.12.2/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../maximum_subsequence_sum/cmake-build-debug/CMakeFiles/3.12.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maximum_subsequence_sum/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../maximum_subsequence_sum/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maximum_subsequence_sum/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../maximum_subsequence_sum/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maximum_subsequence_sum/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../maximum_subsequence_sum/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maximum_subsequence_sum/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maximum_subsequence_sum/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../maximum_subsequence_sum/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maximum_subsequence_sum/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../maximum_subsequence_sum/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/.idea/Sort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/3.12.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/3.12.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/3.12.2/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/3.12.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Sort.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Sort.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Sort.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Sort.dir/cmake_clean.cmake" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Sort.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Sort.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Sort.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Sort.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Sort.dir/linklibs.rsp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Sort.dir/main.cpp.obj" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Sort.dir/objects.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Sort.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Sort.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/Sort.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/Sort.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.2/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.2/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_b9d41.dir/CMakeCCompilerABI.c.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_b9d41.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_b9d41.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_b9d41.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_b9d41.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_b9d41.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_b9d41.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_b9d41.dir/objects.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_b9d41.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_b9d41.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeTmp/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeTmp/cmTC_b9d41.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeTmp/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Test.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Test.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Test.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Test.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -165,6 +113,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FUSProjectUsageTrigger">
     <session id="-264600642">
       <usages-collector id="statistics.lifecycle.project">
@@ -201,9 +150,11 @@
     <session id="1869026138">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
     </session>
@@ -254,8 +205,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -310,16 +261,18 @@
       <workItem from="1540467426004" duration="56000" />
       <workItem from="1540467520595" duration="24000" />
       <workItem from="1540467812477" duration="7000" />
+      <workItem from="1540468734299" duration="22000" />
+      <workItem from="1540481693752" duration="61000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3037000" />
+    <option name="totallyTimeSpent" value="3120000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27609682" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28517398" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
