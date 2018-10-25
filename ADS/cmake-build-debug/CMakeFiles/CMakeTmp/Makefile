@@ -23,6 +23,9 @@ SUFFIXES =
 .SUFFIXES: .hpux_make_needs_suffix_list
 
 
+# Produce verbose output by default.
+VERBOSE = 1
+
 # Suppress display of executed commands.
 $(VERBOSE).SILENT:
 
@@ -47,17 +50,17 @@ RM = "C:\Program Files\JetBrains\CLion 2018.2.4\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\Marvin\Documents\Eigene\FH\3_WiSe2018_19\Algorithms and Data Structurs\Praktikum\CLionProjects\Sort"
+CMAKE_SOURCE_DIR = "C:\Users\Marvin\Documents\Eigene\FH\3_WiSe2018_19\Algorithms and Data Structurs\Praktikum\CLionProjects\ADS\cmake-build-debug\CMakeFiles\CMakeTmp"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\Marvin\Documents\Eigene\FH\3_WiSe2018_19\Algorithms and Data Structurs\Praktikum\CLionProjects\Sort\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\Marvin\Documents\Eigene\FH\3_WiSe2018_19\Algorithms and Data Structurs\Praktikum\CLionProjects\ADS\cmake-build-debug\CMakeFiles\CMakeTmp"
 
 #=============================================================================
 # Targets provided globally by CMake.
 
 # Special rule for the target edit_cache
 edit_cache:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
+	@echo No interactive CMake dialog available...
 	"C:\Program Files\JetBrains\CLion 2018.2.4\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available."
 .PHONY : edit_cache
 
@@ -68,7 +71,7 @@ edit_cache/fast: edit_cache
 
 # Special rule for the target rebuild_cache
 rebuild_cache:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
+	@echo Running CMake to regenerate build system...
 	"C:\Program Files\JetBrains\CLion 2018.2.4\bin\cmake\win\bin\cmake.exe" -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
@@ -78,10 +81,10 @@ rebuild_cache/fast: rebuild_cache
 .PHONY : rebuild_cache/fast
 
 # The main all target
-all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Marvin\Documents\Eigene\FH\3_WiSe2018_19\Algorithms and Data Structurs\Praktikum\CLionProjects\Sort\cmake-build-debug\CMakeFiles" "C:\Users\Marvin\Documents\Eigene\FH\3_WiSe2018_19\Algorithms and Data Structurs\Praktikum\CLionProjects\Sort\cmake-build-debug\CMakeFiles\progress.marks"
+all:
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Marvin\Documents\Eigene\FH\3_WiSe2018_19\Algorithms and Data Structurs\Praktikum\CLionProjects\ADS\cmake-build-debug\CMakeFiles\CMakeTmp\CMakeFiles" "C:\Users\Marvin\Documents\Eigene\FH\3_WiSe2018_19\Algorithms and Data Structurs\Praktikum\CLionProjects\ADS\cmake-build-debug\CMakeFiles\CMakeTmp\CMakeFiles\progress.marks"
 	$(MAKE) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Marvin\Documents\Eigene\FH\3_WiSe2018_19\Algorithms and Data Structurs\Praktikum\CLionProjects\Sort\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Marvin\Documents\Eigene\FH\3_WiSe2018_19\Algorithms and Data Structurs\Praktikum\CLionProjects\ADS\cmake-build-debug\CMakeFiles\CMakeTmp\CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
@@ -104,74 +107,61 @@ preinstall/fast:
 	$(MAKE) -f CMakeFiles\Makefile2 preinstall
 .PHONY : preinstall/fast
 
-# clear depends
-depend:
-	$(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 1
-.PHONY : depend
-
 #=============================================================================
-# Target rules for targets named Sort
+# Target rules for targets named cmTC_bc581
 
 # Build rule for target.
-Sort: cmake_check_build_system
-	$(MAKE) -f CMakeFiles\Makefile2 Sort
-.PHONY : Sort
+cmTC_bc581:
+	$(MAKE) -f CMakeFiles\Makefile2 cmTC_bc581
+.PHONY : cmTC_bc581
 
 # fast build rule for target.
-Sort/fast:
-	$(MAKE) -f CMakeFiles\Sort.dir\build.make CMakeFiles/Sort.dir/build
-.PHONY : Sort/fast
+cmTC_bc581/fast:
+	$(MAKE) -f CMakeFiles\cmTC_bc581.dir\build.make CMakeFiles/cmTC_bc581.dir/build
+.PHONY : cmTC_bc581/fast
 
-main.obj: main.cpp.obj
+feature_tests.obj: feature_tests.c.obj
 
-.PHONY : main.obj
+.PHONY : feature_tests.obj
 
 # target to build an object file
-main.cpp.obj:
-	$(MAKE) -f CMakeFiles\Sort.dir\build.make CMakeFiles/Sort.dir/main.cpp.obj
-.PHONY : main.cpp.obj
+feature_tests.c.obj:
+	$(MAKE) -f CMakeFiles\cmTC_bc581.dir\build.make CMakeFiles/cmTC_bc581.dir/feature_tests.c.obj
+.PHONY : feature_tests.c.obj
 
-main.i: main.cpp.i
+feature_tests.i: feature_tests.c.i
 
-.PHONY : main.i
+.PHONY : feature_tests.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles\Sort.dir\build.make CMakeFiles/Sort.dir/main.cpp.i
-.PHONY : main.cpp.i
+feature_tests.c.i:
+	$(MAKE) -f CMakeFiles\cmTC_bc581.dir\build.make CMakeFiles/cmTC_bc581.dir/feature_tests.c.i
+.PHONY : feature_tests.c.i
 
-main.s: main.cpp.s
+feature_tests.s: feature_tests.c.s
 
-.PHONY : main.s
+.PHONY : feature_tests.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles\Sort.dir\build.make CMakeFiles/Sort.dir/main.cpp.s
-.PHONY : main.cpp.s
+feature_tests.c.s:
+	$(MAKE) -f CMakeFiles\cmTC_bc581.dir\build.make CMakeFiles/cmTC_bc581.dir/feature_tests.c.s
+.PHONY : feature_tests.c.s
 
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
 	@echo ... all (the default if no target is provided)
 	@echo ... clean
-	@echo ... depend
-	@echo ... Sort
+	@echo ... cmTC_bc581
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... main.obj
-	@echo ... main.i
-	@echo ... main.s
+	@echo ... feature_tests.obj
+	@echo ... feature_tests.i
+	@echo ... feature_tests.s
 .PHONY : help
 
 
 
 #=============================================================================
 # Special targets to cleanup operation of make.
-
-# Special rule to run CMake to check the build system integrity.
-# No rule that depends on this can have commands that come from listfiles
-# because they might be regenerated.
-cmake_check_build_system:
-	$(CMAKE_COMMAND) -H$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 0
-.PHONY : cmake_check_build_system
 
