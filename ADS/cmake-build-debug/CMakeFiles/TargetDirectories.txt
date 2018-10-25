@@ -1,0 +1,3 @@
+C:/Users/Marvin/CLionProjects/ADS/cmake-build-debug/CMakeFiles/ADS.dir
+C:/Users/Marvin/CLionProjects/ADS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Marvin/CLionProjects/ADS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
