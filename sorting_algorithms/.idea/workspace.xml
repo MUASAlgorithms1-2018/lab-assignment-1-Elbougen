@@ -12,87 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c6a716d-375f-4d5d-9f0f-fdd4170664c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/.idea/Sort.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/3.12.2/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/3.12.2/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/3.12.2/CMakeRCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/3.12.2/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Sort.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Sort.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Sort.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Sort.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Sort.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Sort.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Sort.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Sort.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Sort.dir/linklibs.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Sort.dir/main.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Sort.dir/objects.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Sort.dir/objects1.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/Sort.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/Sort.cbp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/Sort.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sorting_algorithm/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../test_area/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test_area/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test_area/cmake-build-debug/CMakeFiles/3.12.2/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../test_area/cmake-build-debug/CMakeFiles/3.12.2/CMakeCCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test_area/cmake-build-debug/CMakeFiles/3.12.2/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../test_area/cmake-build-debug/CMakeFiles/3.12.2/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test_area/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../test_area/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test_area/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../test_area/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test_area/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../test_area/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test_area/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../test_area/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test_area/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test_area/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test_area/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/Makefile2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test_area/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test_area/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_b9d41.dir/CMakeCCompilerABI.c.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test_area/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_b9d41.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test_area/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_b9d41.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test_area/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_b9d41.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test_area/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_b9d41.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test_area/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_b9d41.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test_area/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_b9d41.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test_area/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_b9d41.dir/objects.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test_area/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_b9d41.dir/objects1.rsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test_area/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_b9d41.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test_area/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test_area/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test_area/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test_area/cmake-build-debug/CMakeFiles/CMakeTmp/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test_area/cmake-build-debug/CMakeFiles/CMakeTmp/cmTC_b9d41.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test_area/cmake-build-debug/CMakeFiles/CMakeTmp/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test_area/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../test_area/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test_area/cmake-build-debug/Test.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../test_area/cmake-build-debug/Test.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test_area/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../test_area/cmake-build-debug/cmake_install.cmake" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -106,10 +27,12 @@
     <session id="-2087219184">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -129,8 +52,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="50" column="27" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
+            <state relative-caret-position="17">
+              <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -171,7 +94,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../maximum_subsequence_sum" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -193,7 +116,7 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sorting_algorithms" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="merge 5 9 4 5 5 5 25 4 8 6 2 48 6 3 1 4 5 2 42" PASS_PARENT_ENVS_2="true" PROJECT_NAME="sorting_algorithms" TARGET_NAME="sorting_algorithms" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="sorting_algorithms" RUN_TARGET_NAME="sorting_algorithms">
+    <configuration name="sorting_algorithms" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="merge [-533, -962, -962, -183, -906, -973, -959, -978, -922, -743, -652, -335, -15, -773, -985, -977, -602, -473, -36, -451, -656, -82, -467, -510, -955, -766, -112, -288, -99, -560, -138, -692, -662, -130, -986, -287, -478, -727, -752, -52, -111, -184, -911, -272, -318, -114, -116, -497, -160, -811, -819, -964, -98, -673, -917, -517, -356, -151, -871, -442, -771, -573, -369, -260, -8, -304, -672, -732, -472, -878, -121, -73, -351, -219, -206, -155, -335, -489, -512, -361, -138, -704, -6, -923, -911, -904, -257, -401, -466, -272, -694, -957, -704, -325, -387, -374, -245, -321, -295, -576, -838, -47, -223, -384, -946, -919, -94, -533, -602, -23, -598, -187, -77, -486, -801, -230, -543, -695, -468, -942, -129, -192, -535, -696, -475, -561, -405, -385, -177, -1, -864, -699, -185, -250, -720, -447, -485, -859, -442, -792, -352, -284, -134, -323, -676, -561, -435, -422, -189, -807, -7, -272, -95, -504, -305, -367, -294, -392, -751, -541, -786, -280, -447, -59, -611, -469, -811, -193, -227, -12, -309, -140, -611, -842, -923, -423, -86, -256, -125, -986, -785, -210, -629, -33, -218, -449, -170, -541, -359, -807, -970, -778, -58, -540, -647, -490, -148, -2, -362, -900, -628, -929, -53, -650, -181, -801, -318, -24, -509, -613, -277, -966, -546, -435, -676, -870, -919, -203, -278, -913, -85, -196, -138, -508, -923, -269, -630, -308, -318, -360, -378, -775, -502, -110, -302, -192, -791, -89, -449, -379, -790, -595, -378, -189, -997, -563, -925, -683, -429, -298, -541, -273, -70, -914, -17, -775, -18, -222, -198, -171, -437, -906, -620, -308, -971, -366, -450, -201, -362, -571, -203, -517, -270, -992, -228, -944, -805, -995, -593, -165, -967, -193, -366, -116, -657, -958, -730, -333, -776, -637, -174, -40, -3, -491, -544, -64, -29, -662, -394, -632, -807, -362, -239, -577, -888, -875, -546, -295, -202, -739, -520, -648, -593, -714, -805, -791, -117, -303, -592, -556, -997, -211, -441, -788, -148, -308, -534, -406, -142, -153, -384, -218, -915, -746, -217, -917, -883, -347, -798, -125, -657, -356, -238, -873, -440, -891, -420, -383, -65, -716, -577, -127, -496, -470, -174, -779, -97, -155, -718, -229, -827, -369, -679, -548, -979, -758, -485, -257, -161, -532, -486, -349, -543, -756, -66, -18, -500, -499, -819, -696, -51, -245, -232, -123, -691, -261, -153, -769, -764, -653, -464, -242, -729, -455, -372, -351, -934, -829, -343, -378, -788, -148, -366, -834, -854, -67, -261, -745, -286, -806, -939, -56, -171, -371, -478, -460, -134, -646, -296, -170, -645, -395, -600, -729, -712, -975, -910, -650, -701, -157, -916, -386, -18, -190, -888, -986, -643, -165, -866, -749, -471, -383, -259, -540, -788, -708, -844, -400, -14, -546, -208, -459, -147, -895, -370, -730, -833, -877, -178, -743, -718, -610, -727, -580, -551, -792, -58, -884, -26, -99, -976, -476, -995, -379, -1000, -229, -644, -385, -609, -113, -174, -369, -433, -673, -87, -6, -48, -113, -651, -715, -606, -170, -201, -859, -701, -753, -830, -900, -416, -199, -969, -481, -630, -70, -824, -725, -66, -292, -578, -111, -381, -953, -192, -170, -269, -929, -865, -261, -269, -812, -360, -486, -449, -964, -76, -972, -485, -420, -854, -312, -287, -768, -43, -538, -94, -537, -921, -906, -688, -231, -1, -78, -284, -650, -623, -326, -172, -645, -719, -363, -802, -854, -555, -35, -283, -842, -484, -342, -822, -192, -996, -786, -124, -987, -420, -276, -311, -723, -516, -397, -234, -967, -310, -334, -521, -883, -341, -262, -287, -20, -639, -145, -413, -131, -816, -596, -865, -967, -748, -35, -559, -682, -331, -778, -796, -956, -956, -294, -565, -96, -474, -895, -367, -437, -737, -860, -546, -838, -584, -152, -112, -676, -431, -308, -20, -650, -376, -700, -896, -289, -440, -892, -505, -178, -351, -634, -218, -434, -882, -963, -914, -213, -766, -887, -259, -769, -478, -346, -826, -638, -880, -466, -311, -596, -528, -457, -893, -309, -438, -556, -213, -782, -357, -206, -404, -995, -740, -40, -102, -935, -107, -199, -140, -55, -770, -400, -822, -883, -702, -370, -554, -136, -289, -541, -817, -933, -583, -663, -732, -968, -612, -32, -740, -699, -530, -299, -704, -792, -782, -132, -744, -952, -416, -457, -109, -348, -816, -252, -34, -656, -438, -272, -637, -423, -87, -445, -368, -134, -399, -888, -500, -31, -538, -89, -870, -604, -331, -878, -603, -138, -78, -612, -143, -847, -927, -82, -968, -536, -126, -220, -895, -114, -902, -770, -805, -398, -877, -37, -364, -714, -242, -529, -912, -993, -565, -459, -571, -836, -441, -656, -74, -187, -201, -407, -611, -502, -817, -242, -982, -436, -144, -639, -487, -642, -987, -554, -362, -154, -990, -394, -324, -65, -442, -716, -1, -591, -484, -857, -787, -320, -616, -870, -342, -575, -137, -788, -683, -250, -83, -63, -401, -286, -14, -247, -748, -434, -686, -476, -611, -318, -881, -365, -545, -238, -299, -197, -676, -974, -208, -23, -451, -410, -475, -29, -433, -688, -66, -532, -251, -532, -524, -29, -727, -416, -164, -769, -657, -737, -964, -242, -167, -25, -335, -492, -230, -211, -972, -133, -583, -127, -188, -757, -25, -676, -378, -653, -401, -822, -906, -276, -716, -85, -319, -906, -603, -240, -707, -214, -884, -607, -117, -580, -531, -914, -970, -397, -184, -400, -910, -534, -203, -185, -44, -200, -45, -53, -509, -437, -540, -833, -232, -153, -591, -158, -901, -390, -737, -719, -480, -250, -240, -404, -615, -445, -620, -245, -189, -44, -787, -715, -338, -481, -111, -671, -8, -605, -469, -108, -758, -538, -853, -8, -424, -202, -544, -539, -294, -7, -311, -98, -234, -527, -781, -442, -899, -817, -257, -638, -508, -112, -311, -629, -250, -116, -750, -631, -145, -510, -79, -554, -474, -538, -743, -108, -61, -240, -698, -701, -673, -145, -25, -959, -212, -566, -387, -302, -417, -611, -82, -495, -918, -881, -446, -82, -570, -452, -74, -402, -410, -986, -980, -451, -339, -316, -219, -650, -695, -857, -993, -871, -556, -528, -268, -780, -308, -321, -578, -228, -991, -152, -752, -471, -777, -575, -428, -909, -920, -575, -223, -733]" PASS_PARENT_ENVS_2="true" PROJECT_NAME="sorting_algorithms" TARGET_NAME="sorting_algorithms" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="sorting_algorithms" RUN_TARGET_NAME="sorting_algorithms">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -215,27 +138,29 @@
       <updated>1540480791097</updated>
       <workItem from="1540480795988" duration="627000" />
       <workItem from="1540481492794" duration="58000" />
+      <workItem from="1540559171371" duration="457000" />
+      <workItem from="1541166360174" duration="720000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="685000" />
+    <option name="totallyTimeSpent" value="1862000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1376" height="784" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26139817" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.20461538" />
+      <window_info anchor="bottom" id="Run" order="2" weight="1.0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32923076" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3276923" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
@@ -258,8 +183,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="50" column="27" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
+        <state relative-caret-position="17">
+          <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
         </state>
       </provider>
     </entry>
