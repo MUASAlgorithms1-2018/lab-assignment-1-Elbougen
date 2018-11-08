@@ -149,33 +149,6 @@ Stack.cpp.s:
 	$(MAKE) -f CMakeFiles\Lap3.dir\build.make CMakeFiles/Lap3.dir/Stack.cpp.s
 .PHONY : Stack.cpp.s
 
-hans.obj: hans.cpp.obj
-
-.PHONY : hans.obj
-
-# target to build an object file
-hans.cpp.obj:
-	$(MAKE) -f CMakeFiles\Lap3.dir\build.make CMakeFiles/Lap3.dir/hans.cpp.obj
-.PHONY : hans.cpp.obj
-
-hans.i: hans.cpp.i
-
-.PHONY : hans.i
-
-# target to preprocess a source file
-hans.cpp.i:
-	$(MAKE) -f CMakeFiles\Lap3.dir\build.make CMakeFiles/Lap3.dir/hans.cpp.i
-.PHONY : hans.cpp.i
-
-hans.s: hans.cpp.s
-
-.PHONY : hans.s
-
-# target to generate assembly for a file
-hans.cpp.s:
-	$(MAKE) -f CMakeFiles\Lap3.dir\build.make CMakeFiles/Lap3.dir/hans.cpp.s
-.PHONY : hans.cpp.s
-
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -215,9 +188,6 @@ help:
 	@echo ... Stack.obj
 	@echo ... Stack.i
 	@echo ... Stack.s
-	@echo ... hans.obj
-	@echo ... hans.i
-	@echo ... hans.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

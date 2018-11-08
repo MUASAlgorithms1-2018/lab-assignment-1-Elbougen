@@ -5,8 +5,6 @@
 #ifndef LAP3_STACK_H
 #define LAP3_STACK_H
 
-#include <rpcndr.h>
-
 class Stack{
 public:
     Stack(int n);
