@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Marvin/Documents/Eigene/FH/3_WiSe2018_19/Algorithms and Data Structurs/Praktikum/CLionProjects/lap4/SearchTree.h
+vertex.h
+C:/Users/Marvin/Documents/Eigene/FH/3_WiSe2018_19/Algorithms and Data Structurs/Praktikum/CLionProjects/lap4/vertex.h
+
+C:/Users/Marvin/Documents/Eigene/FH/3_WiSe2018_19/Algorithms and Data Structurs/Praktikum/CLionProjects/lap4/main.cpp
+iostream
+-
+SearchTree.h
+C:/Users/Marvin/Documents/Eigene/FH/3_WiSe2018_19/Algorithms and Data Structurs/Praktikum/CLionProjects/lap4/SearchTree.h
+vertex.h
+C:/Users/Marvin/Documents/Eigene/FH/3_WiSe2018_19/Algorithms and Data Structurs/Praktikum/CLionProjects/lap4/vertex.h
+
+C:/Users/Marvin/Documents/Eigene/FH/3_WiSe2018_19/Algorithms and Data Structurs/Praktikum/CLionProjects/lap4/searchTree.cpp
+SearchTree.h
+C:/Users/Marvin/Documents/Eigene/FH/3_WiSe2018_19/Algorithms and Data Structurs/Praktikum/CLionProjects/lap4/SearchTree.h
+vertex.h
+C:/Users/Marvin/Documents/Eigene/FH/3_WiSe2018_19/Algorithms and Data Structurs/Praktikum/CLionProjects/lap4/vertex.h
+
+C:/Users/Marvin/Documents/Eigene/FH/3_WiSe2018_19/Algorithms and Data Structurs/Praktikum/CLionProjects/lap4/vertex.cpp
+vertex.h
+C:/Users/Marvin/Documents/Eigene/FH/3_WiSe2018_19/Algorithms and Data Structurs/Praktikum/CLionProjects/lap4/vertex.h
+
+C:/Users/Marvin/Documents/Eigene/FH/3_WiSe2018_19/Algorithms and Data Structurs/Praktikum/CLionProjects/lap4/vertex.h
+

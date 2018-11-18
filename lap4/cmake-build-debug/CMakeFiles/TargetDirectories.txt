@@ -1,0 +1,3 @@
+C:/Users/Marvin/Documents/Eigene/FH/3_WiSe2018_19/Algorithms and Data Structurs/Praktikum/CLionProjects/lap4/cmake-build-debug/CMakeFiles/lap4.dir
+C:/Users/Marvin/Documents/Eigene/FH/3_WiSe2018_19/Algorithms and Data Structurs/Praktikum/CLionProjects/lap4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Marvin/Documents/Eigene/FH/3_WiSe2018_19/Algorithms and Data Structurs/Praktikum/CLionProjects/lap4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
